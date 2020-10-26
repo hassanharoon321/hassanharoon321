@@ -1,4 +1,3 @@
-<br/>
 ### Hi there, I'm Hassan Haroon 👋
 
 - 🌱 I’m currently learning JavaScript React & React Native

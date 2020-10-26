@@ -31,3 +31,10 @@
 [twitter]: https://twitter.com/HASSANHAROON323
 [facebook]: https://www.facebook.com/profile.php?id=100005944306721
 [linkedin]: https://www.linkedin.com/in/hassan-haroon-88740916a
+
+<br />
+<br />
+
+📊 **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5)

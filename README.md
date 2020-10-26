@@ -33,7 +33,7 @@
 [twitter]: https://twitter.com/HASSANHAROON323
 [facebook]: https://www.facebook.com/profile.php?id=100005944306721
 [linkedin]: https://www.linkedin.com/in/hassan-haroon-88740916a
-[gmail]: mailto:hassanharoon321@gmail.com
+[gmail]: hassanharoon321@gmail.com
 
 <br />
 <br />

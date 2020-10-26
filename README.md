@@ -35,6 +35,6 @@
 <br />
 <br />
 
-📊 **This week I spent my time on**
+[![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=hassanharoon321)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanharoon321&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=hassanharoon&hide_title=true&hide_border=true&langs_count=5)

@@ -8,6 +8,8 @@
 [<img align="left" alt="hassanharoon321 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="hassanharoon321 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="hassanharoon321 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="hassanharoon321 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
 
 <br />
 
@@ -31,6 +33,7 @@
 [twitter]: https://twitter.com/HASSANHAROON323
 [facebook]: https://www.facebook.com/profile.php?id=100005944306721
 [linkedin]: https://www.linkedin.com/in/hassan-haroon-88740916a
+[gmail]: mailto:hassanharoon321@gmail.com
 
 <br />
 <br />

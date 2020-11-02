@@ -1,10 +1,10 @@
 ### Hi there, I'm Hassan Haroon 👋
 
 - 🌱 I’m currently learning JavaScript React & React Native
-- 💬 Ask me about anything in JavaScript
-- ⚡️ Fun-Fact: I want to code like Thor 
-- 📫 How to reach me: hassanharoon321@gmail.com
-
+- 💬 Ask me about anything in JavaScript & React
+- 📫 Fun-Fact: I want to code like Thor
+- ⚡️ How to reach me: hassanharoon321@gmail.com 
+ 
 <br/>
 
 ### Connect with me:

@@ -36,10 +36,6 @@
 [linkedin]: https://www.linkedin.com/in/hassan-haroon-88740916a
 [gmail]: hassanharoon321@gmail.com
 
-<br/>
-<br/>
-
-[![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=hassanharoon321)](https://github.com/anuraghazra/github-readme-stats) 
 
 <br/>
 <br/>

@@ -1,7 +1,7 @@
 ### Hi there, I'm Hassan Haroon 👋
 
-- 🌱 I’m currently learning JavaScript React & React Native
-- 💬 Ask me about anything in JavaScript & React
+- 🌱 I’m currently learning JavaScript React & Redux Developer
+- 💬 Ask me about anything in JavaScript React & Redux
 - 📫 Fun-Fact: I want to code like Thor
 - ⚡️ How to reach me: hassanharoon321@gmail.com 
  
@@ -35,13 +35,4 @@
 [facebook]: https://www.facebook.com/profile.php?id=100005944306721
 [linkedin]: https://www.linkedin.com/in/hassan-haroon-88740916a
 [gmail]: hassanharoon321@gmail.com
-
-
-<br/>
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanharoon321&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
-
-
 

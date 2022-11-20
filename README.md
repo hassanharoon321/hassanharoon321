@@ -7,6 +7,8 @@
  
 <br/>
 
+![](https://leetcard.jacoblin.cool/jacoblincool?border=0&radius=20)
+
 ### Connect with me:
 
 [<img align="left" alt="hassanharoon321 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]

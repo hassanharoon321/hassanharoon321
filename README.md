@@ -4,10 +4,6 @@
   <a href="https://leetcode.com/hassanharoon321/">
     <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
   </a>
- 
-  <a href="https://stackoverflow.com/users/12292696/hassan-haroon">
-    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
-  </a>
   <a href="https://github.com/hassanharoon321?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sudiptob2?color=green&logo=github">
   </a>
